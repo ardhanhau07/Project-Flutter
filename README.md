@@ -1,4 +1,4 @@
-# login
+# Mini Social Media
 
 A new Flutter project.
 
